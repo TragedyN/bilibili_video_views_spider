@@ -113,7 +113,7 @@ parsel==1.5.2
 pbr==5.4.2
 pep8==1.7.0
 pexpect==4.0.1
-Pillow==6.1.0
+Pillow==6.2.0
 plainbox==0.25
 pluggy==0.13.1
 protobuf==3.11.0
