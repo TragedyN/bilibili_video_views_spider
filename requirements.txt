@@ -118,7 +118,7 @@ plainbox==0.25
 pluggy==0.13.1
 protobuf==3.11.0
 psm==0.1.2
-psutil==3.4.2
+psutil==5.6.6
 ptyprocess==0.5
 py==1.8.0
 pyasn1==0.4.7
